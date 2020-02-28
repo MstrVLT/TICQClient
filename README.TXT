@@ -16,15 +16,15 @@ You can get newer version here: http://progs.volkov.spb.su/ticqclient/
 ---------------------------
 RU:
 
-Как установить TICQClient:
-0) Удалите предыдущий компонент TICQClient, если ставили его
-1) Откройте TICQClient.dpk в Delphi
-2) Перейдите в Menu->Tools->Environment Options->Library
-3) Нажмите кнопку "..." напротив Library path
-4) Добавьте путь в папку, где лежит TICQClient
-5) Вернитесь к окошку открытого dpk
-6) Нажмите Compile
-7) Нажмите Install
-8) Теперь можете использовать компонент ICQClient на вкладке Samples
+РљР°Рє СѓСЃС‚Р°РЅРѕРІРёС‚СЊ TICQClient:
+0) РЈРґР°Р»РёС‚Рµ РїСЂРµРґС‹РґСѓС‰РёР№ РєРѕРјРїРѕРЅРµРЅС‚ TICQClient, РµСЃР»Рё СЃС‚Р°РІРёР»Рё РµРіРѕ
+1) РћС‚РєСЂРѕР№С‚Рµ TICQClient.dpk РІ Delphi
+2) РџРµСЂРµР№РґРёС‚Рµ РІ Menu->Tools->Environment Options->Library
+3) РќР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ "..." РЅР°РїСЂРѕС‚РёРІ Library path
+4) Р”РѕР±Р°РІСЊС‚Рµ РїСѓС‚СЊ РІ РїР°РїРєСѓ, РіРґРµ Р»РµР¶РёС‚ TICQClient
+5) Р’РµСЂРЅРёС‚РµСЃСЊ Рє РѕРєРѕС€РєСѓ РѕС‚РєСЂС‹С‚РѕРіРѕ dpk
+6) РќР°Р¶РјРёС‚Рµ Compile
+7) РќР°Р¶РјРёС‚Рµ Install
+8) РўРµРїРµСЂСЊ РјРѕР¶РµС‚Рµ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РєРѕРјРїРѕРЅРµРЅС‚ ICQClient РЅР° РІРєР»Р°РґРєРµ Samples
 
-Новую версию можете взять здесь: http://progs.volkov.spb.su/ticqclient/
+РќРѕРІСѓСЋ РІРµСЂСЃРёСЋ РјРѕР¶РµС‚Рµ РІР·СЏС‚СЊ Р·РґРµСЃСЊ: http://progs.volkov.spb.su/ticqclient/
